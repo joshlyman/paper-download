@@ -11,3 +11,6 @@ http://openaccess.thecvf.com/CVPR2015.py
 http://openaccess.thecvf.com/ICCV2017.py  
 2.CMD  
 (py27)$ python paper-download.py  
+
+Reference  
+https://zhuanlan.zhihu.com/p/27919662   
